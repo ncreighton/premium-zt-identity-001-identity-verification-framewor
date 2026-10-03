@@ -1,0 +1,2 @@
+# premium-zt-identity-001-identity-verification-framewor
+You're building a zero-trust architecture but your identity verification process is scattered across spreadsheets, emails, and tribal knowledge. This framework collapses that chaos into one auditable, repeatable system.  The Identity Verification Framework Template gives you a production-ready Notion system to document, track, and enforce every ide
